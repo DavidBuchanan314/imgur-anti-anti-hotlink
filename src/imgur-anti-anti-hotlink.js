@@ -6,7 +6,7 @@ var callback = function(e) {
 			header.value = "*/*";
 		}
 	}
-	
+
 	return {requestHeaders: e.requestHeaders};
 };
 

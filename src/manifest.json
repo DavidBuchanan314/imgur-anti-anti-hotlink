@@ -5,9 +5,9 @@
 	"version": "0.1",
 
 	"description": "Prevent imgur from preventing you from viewing images directly.",
-	
+
 	"permissions": [
-		"webRequest", "webRequestBlocking", "https://i.imgur.com/*" 
+		"webRequest", "webRequestBlocking", "https://i.imgur.com/*"
 	],
 
 	"background": {
